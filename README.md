@@ -20,10 +20,10 @@ This course is free for MRC LMS and Imperial staff and students.
 
 ## Setting up.
 
-#### Download the material
+<!--#### Download the material
 The material can either be downloaded as a [zip](https://github.com/mrccsc/genomic_formats/archive/master.zip)
 <pre>
 wget https://github.com/mrccsc/genomic_formats/archive/master.zip ./
 </pre>
 or checked out from our Github repository
-https://github.com/mrccsc/genomic_formats/
+https://github.com/mrccsc/genomic_formats/ -->
