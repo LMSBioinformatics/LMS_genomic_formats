@@ -18,9 +18,9 @@ For more information on the team see our [http://bioinformatics.lms.mrc.ac.uk/LM
 This course is free for MRC LMS and Imperial staff and students. 
 
 
-## Setting up.
+<!--## Setting up.
 
-<!--#### Download the material
+-#### Download the material
 The material can either be downloaded as a [zip](https://github.com/mrccsc/genomic_formats/archive/master.zip)
 <pre>
 wget https://github.com/mrccsc/genomic_formats/archive/master.zip ./
