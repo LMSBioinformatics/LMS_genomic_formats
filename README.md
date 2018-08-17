@@ -1,24 +1,22 @@
 # Genomic File Formats
 
 
-##The Course
+## The Course
 
 This course introduces typical genomic file formats from high-throughput sequencing data.
 
 The course consists of 1 section and should be pre-requisite to ChIP-seq or RNA-seq courses
 
-Course material and exercises are available to view as rendered HTML at http://mrccsc.github.io/genomic_formats/.  
-All material is available to download under GPL v3 license.
 
-For  information on other courses run by our team see our [github IO page](http://mrccsc.github.io/training.html).
+All material is available to download under GPL v3 license. For information on other courses run by our team see our [github IO page](http://bioinformatics.lms.mrc.ac.uk/LMStraining.html).
 
 
 ## The Team
 This course was created and conducted by the MRC Clinical Sciences Centre Bioinformatics Team at Imperial College London, Hammersmith Hospital as part of the Genome Browser Course alongside Mark Dunning of CRUK, Cambridge Institute.
-For more information on the team see our [github IO page](http://mrccsc.github.io/).
+For more information on the team see our [http://bioinformatics.lms.mrc.ac.uk/LMSpeople.html).
 
+This course is free for MRC LMS and Imperial staff and students. 
 
-This course is free for MRC CSC and Imperial staff and students. If you would like to attend a future course contact thomas.carroll@imperial.ac.uk.
 
 ## Setting up.
 
